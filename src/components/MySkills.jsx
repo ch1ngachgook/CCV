@@ -24,7 +24,7 @@ const MySkills = () => {
           <h3 className="text-xl md:text-2xl font-semibold mb-2">Languages</h3>
           <ul className="list-disc pl-5">
             <li>Russian — native</li>
-            <li>English — B2</li>
+            <li>English — C1</li>
           </ul>
         </div>
       </div>
